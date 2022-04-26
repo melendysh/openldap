@@ -1,32 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@mtbykn 
-mtbykn
-/
-ShellScripts
-Public
-forked from smelendy/ShellScripts
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-ShellScripts/cs/replicate_stu_updates.sh
-@smelendy
-smelendy Add existing files
-Latest commit 3fb148c on Jul 7, 2016
- History
- 1 contributor
-Executable File  118 lines (107 sloc)  5.01 KB
-  
+
 #!/bin/bash
 
 #Name: Replicate Updates: create student accountfrom list / activate prior accounts
